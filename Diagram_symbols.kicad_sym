@@ -618,7 +618,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type color)
@@ -638,7 +637,6 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-						(color 255 255 255 1)
 					)
 				)
 			)
@@ -3934,7 +3932,7 @@
 		(symbol "back_gpio_0_1"
 			(polyline
 				(pts
-					(xy 3.81 -8.89) (xy 3.81 -8.89)
+					(xy 3.175 -8.89) (xy 3.175 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -3946,7 +3944,7 @@
 			)
 			(polyline
 				(pts
-					(xy 3.81 -8.89) (xy 3.81 -8.89)
+					(xy 3.175 -8.89) (xy 3.175 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -3958,7 +3956,7 @@
 			)
 			(polyline
 				(pts
-					(xy 8.89 -8.89) (xy 8.89 -8.89)
+					(xy 8.255 -8.89) (xy 8.255 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -3970,7 +3968,7 @@
 			)
 			(polyline
 				(pts
-					(xy 8.89 -8.89) (xy 8.89 -8.89)
+					(xy 8.255 -8.89) (xy 8.255 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -3982,7 +3980,7 @@
 			)
 			(polyline
 				(pts
-					(xy 8.89 -8.89) (xy 8.89 -8.89)
+					(xy 8.255 -8.89) (xy 8.255 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -3994,7 +3992,7 @@
 			)
 			(polyline
 				(pts
-					(xy 10.16 -8.89) (xy 10.16 -8.89)
+					(xy 9.525 -8.89) (xy 9.525 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -4006,7 +4004,7 @@
 			)
 			(polyline
 				(pts
-					(xy 15.24 -8.89) (xy 15.24 -8.89)
+					(xy 14.605 -8.89) (xy 14.605 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -4018,7 +4016,7 @@
 			)
 			(polyline
 				(pts
-					(xy 19.05 -8.89) (xy 19.05 -8.89)
+					(xy 18.415 -8.89) (xy 18.415 -8.89)
 				)
 				(stroke
 					(width 0)
@@ -4030,7 +4028,7 @@
 			)
 			(polyline
 				(pts
-					(xy 19.05 -11.43) (xy 19.05 -11.43)
+					(xy 18.415 -11.43) (xy 18.415 -11.43)
 				)
 				(stroke
 					(width 0)
@@ -4042,7 +4040,7 @@
 			)
 			(polyline
 				(pts
-					(xy 22.86 -11.43) (xy 22.86 -11.43)
+					(xy 22.225 -11.43) (xy 22.225 -11.43)
 				)
 				(stroke
 					(width 0)
@@ -4060,19 +4058,17 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
 				)
 			)
 			(rectangle
-				(start 2.54 -8.89)
-				(end 24.13 -11.43)
+				(start 1.905 -8.89)
+				(end 23.495 -11.43)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4080,12 +4076,11 @@
 			)
 			(polyline
 				(pts
-					(xy 3.81 -11.43) (xy 3.81 -8.89)
+					(xy 3.175 -11.43) (xy 3.175 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4093,12 +4088,11 @@
 			)
 			(polyline
 				(pts
-					(xy 5.08 -8.89) (xy 5.08 -11.43)
+					(xy 4.445 -8.89) (xy 4.445 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4106,12 +4100,11 @@
 			)
 			(polyline
 				(pts
-					(xy 6.35 -11.43) (xy 6.35 -8.89)
+					(xy 5.715 -11.43) (xy 5.715 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4119,12 +4112,11 @@
 			)
 			(polyline
 				(pts
-					(xy 7.62 -8.89) (xy 7.62 -11.43)
+					(xy 6.985 -8.89) (xy 6.985 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4132,12 +4124,11 @@
 			)
 			(polyline
 				(pts
-					(xy 8.89 -11.43) (xy 8.89 -8.89)
+					(xy 8.255 -11.43) (xy 8.255 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4145,12 +4136,11 @@
 			)
 			(polyline
 				(pts
-					(xy 10.16 -11.43) (xy 10.16 -8.89)
+					(xy 9.525 -11.43) (xy 9.525 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4158,12 +4148,11 @@
 			)
 			(polyline
 				(pts
-					(xy 11.43 -8.89) (xy 11.43 -11.43)
+					(xy 10.795 -8.89) (xy 10.795 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4171,12 +4160,11 @@
 			)
 			(polyline
 				(pts
-					(xy 12.7 -8.89) (xy 12.7 -11.43)
+					(xy 12.065 -8.89) (xy 12.065 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4184,12 +4172,11 @@
 			)
 			(polyline
 				(pts
-					(xy 13.97 -8.89) (xy 13.97 -11.43)
+					(xy 13.335 -8.89) (xy 13.335 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4197,12 +4184,11 @@
 			)
 			(polyline
 				(pts
-					(xy 15.24 -11.43) (xy 15.24 -8.89)
+					(xy 14.605 -11.43) (xy 14.605 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4210,12 +4196,11 @@
 			)
 			(polyline
 				(pts
-					(xy 16.51 -8.89) (xy 16.51 -11.43)
+					(xy 15.875 -8.89) (xy 15.875 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4223,12 +4208,11 @@
 			)
 			(polyline
 				(pts
-					(xy 17.78 -11.43) (xy 17.78 -8.89)
+					(xy 17.145 -11.43) (xy 17.145 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4236,12 +4220,11 @@
 			)
 			(polyline
 				(pts
-					(xy 19.05 -8.89) (xy 19.05 -11.43)
+					(xy 18.415 -8.89) (xy 18.415 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4249,12 +4232,11 @@
 			)
 			(polyline
 				(pts
-					(xy 20.32 -11.43) (xy 20.32 -8.89)
+					(xy 19.685 -11.43) (xy 19.685 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4262,12 +4244,11 @@
 			)
 			(polyline
 				(pts
-					(xy 21.59 -11.43) (xy 21.59 -8.89)
+					(xy 20.955 -11.43) (xy 20.955 -8.89)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4275,12 +4256,11 @@
 			)
 			(polyline
 				(pts
-					(xy 22.86 -8.89) (xy 22.86 -11.43)
+					(xy 22.225 -8.89) (xy 22.225 -11.43)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4288,12 +4268,11 @@
 			)
 			(polyline
 				(pts
-					(xy 24.13 -10.16) (xy 2.54 -10.16)
+					(xy 23.495 -10.16) (xy 1.905 -10.16)
 				)
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 255 255 1)
 				)
 				(fill
 					(type none)
@@ -4304,7 +4283,6 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-						(color 255 255 255 1)
 					)
 				)
 			)
