@@ -19281,7 +19281,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-1-CC_footprints:USB4056-03-A"
 			(at 3.81 0 0)
 			(show_name no)
 			(do_not_autoplace no)
